@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302343460816",
+    "project_id": "dfefrgr-2b0b5",
+    "storage_bucket": "dfefrgr-2b0b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302343460816:android:b5596058168fd87cef8bd5",
+        "android_client_info": {
+          "package_name": "com.maths.list.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxErKMEgpLTxZ4Dr6CoU1hCnSk-JhUgW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
